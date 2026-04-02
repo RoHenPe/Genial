@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_5q9DTclJjI8w7J52l9md3G15hjcF",
+  "orgId": "team_0UIaoLNok5N3y3jQLpoEXUkt",
+  "projectName": "genial",
+  "settings": {
+    "createdAt": 1775162833058,
+    "framework": null,
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "24.x"
+  }
+}
